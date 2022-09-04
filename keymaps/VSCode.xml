@@ -1,0 +1,10 @@
+<keymap version="1" name="VSCode 副本" parent="VSCode">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="编辑器Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+</keymap>
