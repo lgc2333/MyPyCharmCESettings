@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="996" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="比例" />
       <item value="差异" />
       <item value="统计" />
       <item value="发言" />
@@ -54,7 +55,6 @@
       <item value="新人" />
       <item value="xinren" />
       <item value="intermingle" />
-      <item value="打乱" />
     </histories>
     <option name="languageScores">
       <map>
