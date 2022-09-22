@@ -1,17 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="996" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="statistics" />
+      <item value="统计" />
       <item value="二次元" />
       <item value="频率" />
       <item value="虚拟" />
       <item value="须弥" />
       <item value="比例" />
       <item value="差异" />
-      <item value="统计" />
       <item value="发言" />
       <item value="发" />
       <item value="发烟验尿" />
@@ -54,12 +55,11 @@
       <item value="语句" />
       <item value="语" />
       <item value="语录" />
-      <item value="合法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="44" />
       </map>
     </option>
   </component>
