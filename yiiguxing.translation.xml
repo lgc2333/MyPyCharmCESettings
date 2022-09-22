@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="996" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="dimgray" />
+      <item value="darkslategray" />
       <item value="statistics" />
       <item value="统计" />
       <item value="二次元" />
@@ -53,13 +55,11 @@
       <item value="毒鸡汤" />
       <item value="句子" />
       <item value="语句" />
-      <item value="语" />
-      <item value="语录" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
