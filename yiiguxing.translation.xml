@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="996" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="频率" />
+      <item value="虚拟" />
+      <item value="须弥" />
       <item value="比例" />
       <item value="差异" />
       <item value="统计" />
@@ -52,9 +55,6 @@
       <item value="语录" />
       <item value="合法" />
       <item value="参数是否合法" />
-      <item value="新人" />
-      <item value="xinren" />
-      <item value="intermingle" />
     </histories>
     <option name="languageScores">
       <map>
