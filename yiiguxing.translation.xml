@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="996" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="二次元" />
       <item value="频率" />
       <item value="虚拟" />
       <item value="须弥" />
@@ -54,7 +55,6 @@
       <item value="语" />
       <item value="语录" />
       <item value="合法" />
-      <item value="参数是否合法" />
     </histories>
     <option name="languageScores">
       <map>
