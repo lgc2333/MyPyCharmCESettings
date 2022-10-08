@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="580" />
-    <option name="newTranslationDialogX" value="996" />
-    <option name="newTranslationDialogY" value="418" />
+    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogX" value="525" />
+    <option name="newTranslationDialogY" value="248" />
     <histories>
+      <item value="流量" />
       <item value="dimgray" />
       <item value="darkslategray" />
       <item value="statistics" />
@@ -54,7 +55,6 @@
       <item value="毒" />
       <item value="毒鸡汤" />
       <item value="句子" />
-      <item value="语句" />
     </histories>
     <option name="languageScores">
       <map>
