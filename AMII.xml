@@ -1,9 +1,10 @@
 <application>
   <component name="Plugin-Config">
-    <option name="allowedExitCodes" value="-1073741510,0,130" />
+    <option name="allowedExitCodes" value="-1073741510,130" />
+    <option name="enabledEvents" value="445" />
     <option name="memeDisplayAnchorValue" value="BOTTOM_RIGHT" />
     <option name="memeDisplayTimedDuration" value="30" />
-    <option name="preferredCharacters" value="1eqqbsm68,1fjc40q3l,1er265oqb,1eqq64u1c,1eqq34i69,1fr291v6n,1fj3fjuo5,1fj3fj8hf,1eqqc3s0q,1eqq5t85r,1fd3fpfu0,1f59mq4ih,1fj4hh8he,1f59mrnro,1f59mpmdi,1eqq5hvqe,1eqq5hls6,1f59mp9fq,1g6rmgi13,1g6rlfaqq,1g6rm8cme,1g6rm9dqb,1g31fv2lt,1g31fu2u8,1g31fuoav,1g31ftj1h,1g1ug1mfv,1g1ug2cp9,1g1ufvnk4,1eqq1m2r3,1eqqgduse,1eqqg3lo0" />
+    <option name="positiveExitCodes" value="0" />
     <option name="userId" value="3496ee97-bb56-45dd-8904-b982cd2b7111" />
     <option name="version" value="0.15.1" />
   </component>
