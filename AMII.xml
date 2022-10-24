@@ -1,0 +1,11 @@
+<application>
+  <component name="Plugin-Config">
+    <option name="allowedExitCodes" value="-1073741510,130" />
+    <option name="enabledEvents" value="445" />
+    <option name="memeDisplayAnchorValue" value="BOTTOM_RIGHT" />
+    <option name="memeDisplayTimedDuration" value="30" />
+    <option name="positiveExitCodes" value="0" />
+    <option name="userId" value="3496ee97-bb56-45dd-8904-b982cd2b7111" />
+    <option name="version" value="0.15.1" />
+  </component>
+</application>
