@@ -6,6 +6,9 @@
     <option name="globalFontSize" value="true" />
     <option name="hideOnHover" value="true" />
     <option name="lafAnimation" value="true" />
+    <option name="materialDirectories" value="true" />
+    <option name="materialFiles" value="true" />
+    <option name="materialPSIIcons" value="true" />
     <option name="notificationOpacity" value="70" />
     <option name="seeThroughNotifications" value="true" />
     <option name="themedTitleBar" value="false" />
