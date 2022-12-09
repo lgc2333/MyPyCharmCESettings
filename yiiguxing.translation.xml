@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="525" />
     <option name="newTranslationDialogY" value="248" />
     <histories>
+      <item value="题目" />
+      <item value="翻译" />
+      <item value="timu" />
       <item value="拼接" />
       <item value="流量" />
       <item value="dimgray" />
@@ -52,18 +55,15 @@
       <item value="可能的" />
       <item value="模板" />
       <item value="修正" />
-      <item value="优化" />
-      <item value="毒" />
-      <item value="毒鸡汤" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667374752179" />
+    <option name="lastTrimTime" value="1670561498932" />
   </component>
 </application>
